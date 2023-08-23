@@ -1,0 +1,14 @@
+C:\Users\johan\source\repos\SSShop\SSShop\bin\Debug\SSShop.exe.config
+C:\Users\johan\source\repos\SSShop\SSShop\bin\Debug\SSShop.exe
+C:\Users\johan\source\repos\SSShop\SSShop\bin\Debug\SSShop.pdb
+C:\Users\johan\source\repos\SSShop\SSShop\obj\Debug\SSShop.csproj.AssemblyReference.cache
+C:\Users\johan\source\repos\SSShop\SSShop\obj\Debug\SSShop.Properties.Resources.resources
+C:\Users\johan\source\repos\SSShop\SSShop\obj\Debug\SSShop.csproj.GenerateResource.cache
+C:\Users\johan\source\repos\SSShop\SSShop\obj\Debug\SSShop.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\SSShop\SSShop\obj\Debug\SSShop.exe
+C:\Users\johan\source\repos\SSShop\SSShop\obj\Debug\SSShop.pdb
+C:\Users\johan\source\repos\SSShop\SSShop\obj\Debug\SSShop.FrmMain.resources
+C:\Users\johan\source\repos\SSShop\SSShop\obj\Debug\SSShop.FrmProducts.resources
+C:\Users\johan\source\repos\SSShop\SSShop\obj\Debug\SSShop.FrmUsers.resources
+C:\Users\johan\source\repos\SSShop\SSShop\obj\Debug\SSShop.FrmSales.resources
+C:\Users\johan\source\repos\SSShop\SSShop\obj\Debug\SSShop.FrmProviders.resources
